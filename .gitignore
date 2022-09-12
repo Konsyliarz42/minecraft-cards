@@ -4,3 +4,5 @@
 *.properties
 
 * copy.*
+
+!card.json
