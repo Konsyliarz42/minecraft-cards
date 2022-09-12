@@ -1,0 +1,6 @@
+*.lnk
+*.log
+*.json
+*.properties
+
+* copy.*
