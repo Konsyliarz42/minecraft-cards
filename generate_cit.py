@@ -49,3 +49,5 @@ if __name__ == "__main__":
             properties_path.write_text(PROPERTIES_TEMPLATE.format(
                 model=json_path.stem, name=regex_name
             ))
+
+            print("-", regex_name.title())

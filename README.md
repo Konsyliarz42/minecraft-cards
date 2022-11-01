@@ -1,4 +1,4 @@
-# Minecraft Cards
+# ![Minecraft Cards](logo.png)
 
 [![OptifineRequired](./optifine_required_banner.jpg)](https://www.optifine.net/home)
 
@@ -15,16 +15,54 @@ Use paper on anvil and rename name from list below.
 
 - Allay
 - Bat
+- Bee
+- Blaze
+- Cave Spider
 - Chicken
 - Cod
 - Cow
+- Creeper
+- Dolphin
 - Donkey
+- Drowned
+- Elder Guardian
+- Enderman
+- Endermite
+- Ender Dragon
+- Evoker
+- Ghast
+- Goat
+- Guardian
+- Hoglin
+- Husk
+- Iron Golem
+- Magma Cube
 - Mule
 - Ocelot
+- Phantom
 - Pig
+- Pillager
+- Polar Bear
 - Pufferfish
+- Ravager
 - Salmon
+- Silverfish
+- Skeleton Horse
+- Slime
+- Spider
+- Stray
 - Strider
+- Tadpole
+- Turtle
+- Vex
+- Vindicator
+- Wandering Trader
+- Warden
+- Witch
+- Wither
+- Wolf
+- Zoglin
+- Zombie
 - Blue Axolotl
 - Cyan Axolotl
 - Gold Axolotl
@@ -79,12 +117,22 @@ Use paper on anvil and rename name from list below.
 - White Horse With White Field
 - White Horse With White Spots
 - White Horse With White Stockings
+- Brown Llama
+- Creamy Llama
+- Gray Llama
+- White Llama
 - Brown Mooshroom
 - Red Mooshroom
+- Brown Panda
+- Panda
 - Blue Parrot
 - Cyan Parrot
 - Gray Parrot
 - Green Parrot
+- Piglin
+- Piglin Brute
+- Piglin With Crossbow
+- Zombified Piglin
 - Black And White Rabbit
 - Black Rabbit
 - Brown Rabbit
@@ -92,7 +140,45 @@ Use paper on anvil and rename name from list below.
 - Killer Bunny
 - Salt And Pepper Rabbit
 - White Rabbit
+- Black Sheep
+- Blue Sheep
+- Brown Sheep
+- Cyan Sheep
+- Gray Sheep
+- Green Sheep
+- Light Blue Sheep
+- Light Gray Sheep
+- Lime Sheep
+- Magenta Sheep
+- Orange Sheep
+- Pink Sheep
+- Purple Sheep
+- Red Sheep
+- White Sheep
+- Yellow Sheep
+- Black Shulker
+- Blue Shulker
+- Brown Shulker
+- Cyan Shulker
+- Gray Shulker
+- Green Shulker
+- Light Blue Shulker
+- Light Gray Shulker
+- Lime Shulker
+- Magenta Shulker
+- Orange Shulker
+- Pink Shulker
+- Purple Shulker
+- Red Shulker
+- Shulker
+- White Shulker
+- Yellow Shulker
+- Skeleton
+- Wither Skeleton
+- Sheared Snow Golem
+- Snow Golem
 - Glow Squid
+- Squid
 - Anemone
 - Black Tang
 - Blue Dory
@@ -117,3 +203,17 @@ Use paper on anvil and rename name from list below.
 - White-Silver Sunstreak
 - Yellowtail Parrot
 - Yellow Tang
+- Desert Villager
+- Jungle Villager
+- Savanna Villager
+- Snowy Villager
+- Swamp Villager
+- Taiga Villager
+- Villager
+- Desert Zombie Villager
+- Jungle Zombie Villager
+- Savanna Zombie Villager
+- Snowy Zombie Villager
+- Swamp Zombie Villager
+- Taiga Zombie Villager
+- Zombie Villager
